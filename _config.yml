@@ -1,1 +1,7 @@
-t
+title: Name
+description: test
+show_downloads: true
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+email: email@email.com
